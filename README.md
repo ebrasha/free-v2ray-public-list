@@ -36,6 +36,9 @@ please contact **Prof.Shafiei@Gmail.com**. Issues on GitHub or GitLab are also w
 
 ---
 
+<div dir="rtl">
+
+
 ## 📗 راهنمای فارسی
 
 لیست ساده‌ای از سرورهای رایگان و سالم V2Ray که همیشه در حال به‌روزرسانی است.  
@@ -66,3 +69,6 @@ please contact **Prof.Shafiei@Gmail.com**. Issues on GitHub or GitLab are also w
 اگر با مشکلی در کانفیگ‌ها مواجه شدید یا چیزی طبق انتظار کار نکرد،  
 لطفاً از طریق ایمیل **Prof.Shafiei@Gmail.com** با ما در تماس باشید. همچنین می‌توانید در GitHub یا GitLab issue ثبت کنید.
 
+
+
+</div>
