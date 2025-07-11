@@ -278,7 +278,6 @@ vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.223.79:2096?allowInsecure=1&
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?type=ws&host=speedtest.net&security=tls # [ By EbraSha ] 🔒
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?allowInsecure=0&fp=chrome # [ By EbraSha ] 🔒
 vless://260c4900-69a9-465c-8c3a-272eb1b4ec00@45.131.6.6:8080?encryption=none&security=none&sni=ShaHrAmcOnfIgWoRKERcjsA9898.CoNfIGshaHrAmcOnfIg.woRKeRs.dev&type=ws&host=ShaHrAmcOnfIgWoRKERcjsA9898.CoNfIGshaHrAmcOnfIg.woRKeRs.dev&path=Telegram%40WangCai2%2F%3Fed%3D2048#🇸🇬[By EbraSha] vless-SG 🔒
-vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?security=tls&encryption=none&host=speedtest.net&fp=randomized&type=ws # [ By EbraSha ] 🔒
 vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.aminzing.lol:443?security=tls&alpn=h2&encryption=none&host=speedtest.net&fp=chrome&type=httpupgrade # [ By EbraSha ] 🔒
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ] 🔒
 vless://2f3e929e-fe8c-44d5-b96b-6ec0e4b5e569@104.17.148.22:2082?allowInsecure=1&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
@@ -301,7 +300,6 @@ vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&e
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&flow=xtls-rprx-vision&sni=speed.cloudflare.com&type=tcp&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#🇺🇸[By EbraSha] vless-US 🔒
 vless://518d0495-2139-4bfd-94df-2a029108f1af@104.18.26.90:443?security=tls&alpn=http/1.1&encryption=none&host=speedtest.net&fp=randomized&type=ws # [ By EbraSha ] 🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.13.54:80?encryption=none&security=none&type=ws&host=REEdfREe8MahSaNg2.rEDOrG.IR&path=%2Fvpnowl%3Fed%3D2560#🇸🇬[By EbraSha] vless-SG 🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.13.54:80?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ] 🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@108.162.198.20:8880?allowInsecure=0&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.57:8880?path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🇸🇬[By EbraSha] vless-SG 🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.108.20:8880?allowInsecure=0&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
@@ -332,7 +330,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.218.20:8880?allowInsecure=0&
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.159.218.20:8880?allowInsecure=0&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.119:2095?allowInsecure=0&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.147:80?allowInsecure=0&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.147:80?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ] 🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.147:80?&type=ws&headerType=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%3A%40ShadowProxy66%2F%3Fed%3D2560#🇸🇬[By EbraSha] vless-SG 🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.139:80?allowInsecure=0&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.219:8880?allowInsecure=0&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
@@ -388,10 +385,10 @@ vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?security=none&type=
 vless://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:80?security=none&type=ws&host=xxcdvfgt.191268.xyz&encryption=none&type=ws&path=%2FW02wBrOOqlSUywV3ibrzzKXJGy3S1&sni=xxcdvfgt.191268.xyz&headerType=none#🇺🇸[By EbraSha] vless-US 🔒
 vless://738c5a04-817a-4f50-b327-893595010155@all32-vip.f-sub.com:2434?security=reality&encryption=none&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA&headerType=none&fp=chrome&type=tcp # [ By EbraSha ] 🔒
 vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?security=tls&sni=NGINX-Z.pages.DEV&type=ws&host=nginx-z.pages.dev&path=%2F&alpn=h3#🇹🇷[By EbraSha] vless-TR 🔒
+vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?security=tls&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By EbraSha ] 🔒
 vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@59.29.143.247:10894?allowInsecure=0&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ] 🔒
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ] 🔒
-vless://7dfe125d-806d-4e5a-a91c-bcc2020ef7be@91.99.238.186:31015?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ] 🔒
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&sni=dl.google.com&type=tcp&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#🇫🇷[By EbraSha] vless-FR 🔒
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495?security=reality&sni=dl.google.com&type=tcp&fp=random&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#🇮🇱[By EbraSha] vless-IL 🔒
 vless://7f93e196-1b2f-4a42-8051-5815554c05db@100.24.71.29:443?allowInsecure=1&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls # [ By EbraSha ] 🔒
@@ -432,7 +429,6 @@ vless://895552fa-6284-4c1d-ba00-3944e0c7c626@172.67.153.179:443?alpn=http/1.1&ty
 vless://897a4bec-26b8-11e8-94be-00505695472c@bestcf.030101.xyz:443?allowInsecure=1&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.18.250.12:80?encryption=none&security=none&type=ws&host=ana-SErVICe.xAbjCDZ.wORkErs.deV&path=%2F1Y6MN5DFV8zB82Ai%3Fed%3D2560#🇸🇬[By EbraSha] vless-SG 🔒
 vless://8a7b1cd0-883e-4cbb-bdf9-123669d45aab@www.speedtest.net:2096?encryption=none&security=tls&type=ws&alpn=h3h2&host=speedtest.net # [ By EbraSha ] 🔒
-vless://93753fb9-b3ea-48b5-af84-4a26a117963b@91.99.116.35:19322?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ] 🔒
 vless://941d092e-8313-452a-ba21-c9995dcba79d@101reel.com:80?security=none&encryption=none&host=speedtest.net&fp=random&type=ws # [ By EbraSha ] 🔒
 vless://9beca423-b31d-496d-aee6-a1ab64f0bd81@54.36.162.84:8880?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=firefox&pbk=Fa_dYaQoLgLjsk1jvSQcEKRNnAvMVJF4Br7YG5FT6zo&sid=1e4072&spx=%2F&type=tcp&headerType=none#🇬🇧[By EbraSha] vless-GB 🔒
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@5.104.75.130:8443?type=ws&host=speedtest.net&security=tls # [ By EbraSha ] 🔒
@@ -444,7 +440,6 @@ vless://a08e37ad-e4ab-4d3e-95ac-aa8493b419ac@91.107.159.32:443?encryption=none&f
 vless://a4249955-0e50-5353-8f9f-a23087f668bf@77.105.162.84:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=77.105.162.84&path=%2Fvless#🇺🇸[By EbraSha] vless-US 🔒
 vless://a95b8225-c07b-47fe-b1e4-b1bda89c7f7c@www.speedtest.net:80?allowInsecure=1&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?encryption=none&security=tls&sni=sub.divib.dynv6.net&fp=chrome&type=ws&host=sub.divib.dynv6.net&path=%2F%3Fed%3D2560%2F%3FRk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps#🇸🇬[By EbraSha] vless-SG 🔒
-vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?type=ws&host=speedtest.net&security=none # [ By EbraSha ] 🔒
 vless://b43a834f-4e56-4910-87d8-328cb50db70f@188.245.90.180:443?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ] 🔒
 vless://b4473fe7-6e2e-441e-8b2e-a8baec8a5172@116.203.29.106:50424?security=none&encryption=none&headerType=none&type=tcp#🇩🇪[By EbraSha] vless-DE 🔒
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?allowInsecure=0&type=ws&host=speedtest.net&security=tls # [ By EbraSha ] 🔒
@@ -485,7 +480,6 @@ vless://e74c23fa-44c0-425e-812d-5e2df4487ced@www.speedtest.net:8880?allowInsecur
 vless://e7cc66ec-4b16-42c9-bbc8-20283e67d656@power.dlmoviz.ir:2020?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ] 🔒
 vless://e96adc51-70f2-451d-83c5-77094b9d680f@91.99.119.39:9999?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9&spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&type=tcp&headerType=none#🇺🇦[By EbraSha] vless-UA 🔒
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.220.188:443?security=tls&sni=147135001195.sec22org.com&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🇺🇸[By EbraSha] vless-US 🔒
-vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?security=tls&encryption=none&host=speedtest.net&fp=firefox&type=ws # [ By EbraSha ] 🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@20.243.85.49:10443?allowInsecure=0&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?allowInsecure=0&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@103.116.7.63:8880?allowInsecure=0&type=ws&host=speedtest.net # [ By EbraSha ] 🔒
@@ -696,4 +690,4 @@ vmess://{"v":"2","ps":"🇭🇰 香港|@ripaojiedian","add":"103.224.80.92","por
 vmess://{"v": "2", "ps": "香港v2|@ripaojiedian", "add": "47.76.28.43", "port": "34833", "aid": 0, "scy": "none", "net": "kcp", "type": "none", "tls": "", "id": "dd0d30ae-a4d1-4d1e-8553-42bfff66fd27", "sni": ""} # [ By EbraSha ] 🔒
 vmess://{"v":"2","ps":"🇭🇰 香港v2|@ripaojiedian","add":"47.76.28.43","port":"34833","type":"none","id":"dd0d30ae-a4d1-4d1e-8553-42bfff66fd27","aid":"0","net":"kcp","path":"/","host":"","tls":""} # [ By EbraSha ] 🔒
 vmess://{"v":"2","ps":"🇭🇰 香港v2|@ripaojiedian","add":"47.76.28.43","port":"34833","type":"srtp","id":"dd0d30ae-a4d1-4d1e-8553-42bfff66fd27","aid":"0","net":"kcp","path":"/","host":"","tls":""} # [ By EbraSha ] 🔒
-# Generated By Ebrahim Shafiei (EbraSha) https://github.com/ebrasha/  -> 2025-07-11 18:30:49.822255
+# Generated By Ebrahim Shafiei (EbraSha) https://github.com/ebrasha/  -> 2025-07-11 19:01:03.252866
