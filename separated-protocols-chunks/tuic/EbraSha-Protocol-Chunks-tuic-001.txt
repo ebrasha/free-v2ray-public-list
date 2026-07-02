@@ -1,0 +1,5 @@
+tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@m61wz8.yydzx.xyz:27105?alpn=h3&congestion_control=bbr&sni=m61wz8.yydzx.xyz# By EbraSha 🌃
+tuic://2219a1b1-9290-4ac5-94fd-6cfc1fb25280:2219a1b1-9290-4ac5-94fd-6cfc1fb25280@xbns1y.yydzx.xyz:27102?alpn=h3&congestion_control=bbr&sni=xbns1y.yydzx.xyz# By EbraSha 🥷
+tuic://36106e0f-4d9a-470b-a3fd-535f3b7a1e92:dongtaiwang.com@5.178.101.117:30006?sni=www.microsoft.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3# By EbraSha 🤖
+tuic://48b603e6-6568-464e-a32f-4cf0526a9f1a:48b603e6-6568-464e-a32f-4cf0526a9f1a@8.219.215.193:5835?alpn=h3&congestion_control=bbr&sni=claw.isbigdick.cc.cd# By EbraSha 📶
+tuic://48b603e6-6568-464e-a32f-4cf0526a9f1a:48b603e6-6568-464e-a32f-4cf0526a9f1a@8.219.215.193:5835?sni=claw.isbigdick.cc.cd&alpn=h3&insecure=0&allowInsecure=0&congestion_control=bbr# By EbraSha ⚙️
